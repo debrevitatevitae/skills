@@ -9,12 +9,12 @@ Analyse the research paper in object according to the following instructions and
 
 ## Instructions
 
--  Report by answering in order each of the questions in the template section. Report your analysis following the template. Restate each question before presenting the answer.
--  When answering, be as concise as possible. Sacrifice grammar for the sake of clarity.
--  Scientific terminology is welcome, but avoid any other unnecessary jargon.
--  Do not make any claim without backing it up with references to the scientific literature. Use the web search tool as much as you need. Privilege references from high-impact journals in the field of the paper under examination.
--  Reference elements of the paper (equations, figures, tables, even sections) where relevant.
--  Report your findings as a pdf file. Make sure that all equations, tables and charts are correctly formatted.
+- Report by answering in order each of the questions in the template section. Report your analysis following the template. Restate each question before presenting the answer.
+- When answering, be as concise as possible. Sacrifice grammar for the sake of clarity.
+- Scientific terminology is welcome, but avoid any other unnecessary jargon.
+- Do not make any claim without backing it up with references to the scientific literature. Use the web search tool as much as you need. Privilege references from high-impact journals in the field of the paper under examination.
+- Reference elements of the paper (equations, figures, tables, even sections) where relevant.
+- Report your findings as a pdf file. Make sure that all equations, tables and charts are correctly formatted.
 
 ## Template
 
