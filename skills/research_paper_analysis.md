@@ -14,7 +14,12 @@ Analyse the research paper in object according to the following instructions and
 - Scientific terminology is welcome, but avoid any other unnecessary jargon.
 - Do not make any claim without backing it up with references to the scientific literature. Use the web search tool as much as you need. Privilege references from high-impact journals in the field of the paper under examination.
 - Reference elements of the paper (equations, figures, tables, even sections) where relevant.
-- Report your findings as a pdf file. Make sure that all equations, tables and charts are correctly formatted.
+
+### Reporting
+
+- Report your findings as a pdf file.
+- Include a *Symbols and Abbreviations* section at the beginning of the file, where you explain every symbol and abbreviation you use. Re-use the terminology of the paper as much as possible.
+- Make sure that all equations, tables and charts are correctly formatted.
 
 ## Template
 
